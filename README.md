@@ -2,13 +2,23 @@
 
 # Ingenieria del Software II - FAMAF - Computacion
 
-> Cuatrimestre
+> 1C
 
-Necesita tener aprobada:
+## Correlativas para **cursar**
 
-- Ingenieria del Software I
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| Algoritmos y Estructuras de Datos II   | Aprobada     |
+| Ingenieria del Software I | Regularizada |
 
-Es correlativa de:
+## Correlativas para **aprobar**
+
+| Materia               | Condición    |
+| --------------------- | ------------ |
+| Algoritmos y Estructuras de Datos II   | Aprobada     |
+| Ingenieria del Software I | Aprobada     |
+
+## Es correlativa de:
 
 - Ninguna.
 
@@ -17,21 +27,30 @@ Es correlativa de:
 > https
 
 ```bash
-git clone https://github.com/FAMAF-resources/5to_1C-Ingenieria_del_Software_II-FAMAF.git
+git clone --recurse-submodules https://github.com/FAMAF-resources/5to_1C-Ingenieria_del_Software_II-FAMAF.git
 ```
 
 > **ssh (recomendado)**
 
 ```bash
-git clone git@github.com:FAMAF-resources/5to_1C-Ingenieria_del_Software_II-FAMAF.git
+git clone --recurse-submodules git@github.com:FAMAF-resources/5to_1C-Ingenieria_del_Software_II-FAMAF.git
 ```
 
+## Update
 
-# Contribuciones
+```bash
+git pull && git submodule update --init --recursive
+```
 
-Cualquier persona puede realiza su aporte con apunte, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) o comunicarse con los administradores.
+# ¿Cómo contribuir?
+
+Este es un proyecto con fines de facilitar el acceso al material para estudio.
+
+Cualquier persona puede realizar su aporte, sea apunte, libro, o actualizacion de este repositoro.
+
+Puede ser realizado por una pull request (PR) o comunicándose con los administradores.
 
 # Contributors
 <a href="https://github.com/FAMAF-resources/5to_1C-Ingenieria_del_Software_II-FAMAF/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/5to_1C-Ingenieria_del_Software_II-FAMAF"/>
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/5to_1C-Ingenieria_del_Software_II-FAMAF" height="50"/>
 </a>
