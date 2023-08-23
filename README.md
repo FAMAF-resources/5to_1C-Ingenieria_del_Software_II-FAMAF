@@ -24,13 +24,13 @@
 
 ## Clonar el repositorio
 
-> https
+**https**
 
 ```bash
 git clone --recurse-submodules https://github.com/FAMAF-resources/5to_1C-Ingenieria_del_Software_II-FAMAF.git
 ```
 
-> **ssh (recomendado)**
+**ssh (recomendado)**
 
 ```bash
 git clone --recurse-submodules git@github.com:FAMAF-resources/5to_1C-Ingenieria_del_Software_II-FAMAF.git
